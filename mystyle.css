@@ -1,0 +1,12 @@
+a {
+    padding: 0;
+    margin: 0;
+    text-decoration:none;
+    font-family: 'Ubunutu' , sans-serif;
+}
+body {
+    background-image:url("model_s.png");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
